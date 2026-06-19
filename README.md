@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sankar D
 
-<!--
-**Sankar2425/Sankar2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical and Electronics Engineering graduate transitioning into Software Development, AI Applications, and Backend Engineering.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- FastAPI
+- REST APIs
+- Node.js
+- Git
+- LLM Integration
+- Ollama
+- Arduino
+- LoRa Communication
+
+## Projects
+
+### NOHA AI Assistant
+Local-first AI desktop assistant with voice interaction, FastAPI backend, and Ollama integration.
+
+### Smart Solar Panel Cleaning System
+Award-winning LoRa-based solar panel maintenance system.
+
+## Achievements
+
+- ₹1 Lakh First Prize – KELCON Electrical Expo
+- Patent Filed – Solar Panel Cleaning System
+- SAE E-BAJA Technical Lead
+
+## Current Focus
+
+- Python Development
+- Backend Engineering
+- AI Applications
+- Open Source Learning
